@@ -4,6 +4,8 @@ Hey my name is Brandon. I spend time pondering the mysterious and unique facets 
 
 <!--
 **Bmmaroni/Bmmaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🖱️ Full-Stack Web Developer 🧠Self-Proclaimed Philosopher 👨 Dad Jokester 👑 Hacky Sack Master
 -->
 - 🔭 I’m currently working on ... an educational game for kids
 - 🌱 I’m currently learning ... React & Node
