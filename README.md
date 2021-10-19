@@ -10,6 +10,4 @@ Hey my name is Brandon. I spend time pondering the mysterious and unique facets 
 - 🔭 I’m currently working on ... an educational game for kids
 - 🌱 I’m currently learning ... React & Node
 - 💬 Ask me about ... The Mysteries of the Universe
-- 📫 How to reach me: ... 
 - 😄 Adjectives: ... Loyal, Honest, Hard-Working & Teachable
-- ⚡ Fun fact: ...
