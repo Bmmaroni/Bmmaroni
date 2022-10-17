@@ -7,7 +7,7 @@ Hey my name is Brandon. I spend time pondering the mysterious and unique facets 
 
 🖱️ Full-Stack Web Developer 🧠Self-Proclaimed Philosopher 👨 Dad Jokester 👑 Hacky Sack Master 🏭 Card-Carrying Forklift Operator
 -->
-- 🔭 I’m currently working on ... an educational game for kids
+- 🔭 I’m currently working on ... an internal company app that stores all client project info
 - 🌱 I’m currently learning ... React & Node
 - 💬 Ask me about ... The Mysteries of the Universe
 - 😄 Adjectives: ... Loyal, Honest, Hard-Working & Teachable
